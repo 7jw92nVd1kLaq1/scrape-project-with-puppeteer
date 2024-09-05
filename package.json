@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "puppeteer": "^23.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
   }
 }
